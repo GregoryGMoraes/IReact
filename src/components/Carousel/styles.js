@@ -8,7 +8,7 @@ export const Title = styled.h3`
   margin-bottom: 16px;
   display: inline-block;
   padding: 20px;
-  background: linear-gradient(to right, #870000, #190a05);
+  background: var(--linearRed);
   line-height: 1;
   border-radius: 4px;
 

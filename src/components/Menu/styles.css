@@ -69,7 +69,7 @@ max-width: 168px;
       left: 0;
       right: 0;
       bottom: 0;
-      background: #b81414;
+      background: var(--linearRed);
       border-radius: 0;
       border: 0;
       text-align: center;

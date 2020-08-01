@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -73,3 +74,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Repositório onde será desenvolvido uma aplicação React aprendida na Imersão React disponibilizado pela Alura. 
 As aulas do dia 27/07/2020 à 31/07/2020.
 >>>>>>> remotes/origin/master
+=======
+## Imersão React
+Repositório onde será desenvolvido uma aplicação React aprendida na Imersão React disponibilizado pela Alura. As aulas do dia 27/07/2020 à 31/07/2020.
+>>>>>>> 137fba254828e3ebcaa9fee5f2a530cc54b55ac0

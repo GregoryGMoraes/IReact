@@ -87,7 +87,9 @@ function CadastroCategoria() {
       </form>
 
       {categorias.length === 0 && (
-      <Snipper />
+      <div>
+        Loading...
+      </div>
       )}
 
       <ul>
